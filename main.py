@@ -42,7 +42,7 @@ for episode in range(episodes):
 	else:
 		render = False
 	"""
-	render = False
+	render = True
 
 	discrete_state = get_discrete_state(env.reset())
 

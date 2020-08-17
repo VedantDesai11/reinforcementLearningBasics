@@ -15,7 +15,7 @@ def get_q_color(value, vals):
 fig = plt.figure(figsize=(12, 9))
 
 
-for i in range(0, 25000, 10):
+for i in range(10500, 25000, 100):
     print(i)
     ax1 = fig.add_subplot(311)
     ax2 = fig.add_subplot(312)
