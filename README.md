@@ -5,4 +5,4 @@ Creating a Q-table for the MountainCarV0 environment and learning on 25000 episo
 
 ## visualizing the learning process
 
-![alt text](![alt text](https://github.com/VedantDesai11/reinforcementLearningBasics/blob/master/qlearn.avi)
+![alt text](https://github.com/VedantDesai11/reinforcementLearningBasics/blob/master/qlearn.avi)
